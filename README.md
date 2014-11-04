@@ -2,3 +2,6 @@
 *** I Encontro de Informatica do Instituto Federal de Rondônia ***
 ####versão###
 **1.0**
+###Autor###
+
+###Guilherme Borges
